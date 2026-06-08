@@ -2,7 +2,7 @@
 Getting this project running requires a specific hardware configuration. This document aims to make that configuration easy to obtain in order to enable replicability.
 
 ### Arduino Setup:
-Ensure the Arduino code file is loaded onto the device.
+Ensure 'analogue_polling', the Arduino code file is loaded onto the device.
 In the analogue pins, connect three sliders in sequence, and then three knobs in sequence. Other analogue inputs will work, but knobs and sliders are the intended hardware.
 
 ### Raspberry Pi Setup:
